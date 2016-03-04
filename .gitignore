@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/dictionaries
+/build
+/build-small
+/.idea/runConfigurations.xml
+*.iml
