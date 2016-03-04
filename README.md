@@ -1,20 +1,20 @@
 # Sample
 
-This is for Small user.
+This is for SmallDemo user.
 
 ## Getting Started
 
-### Step 1. Clone Small (下载源码)
-    > cd [你要放Small的目录]
-    > git clone https://github.com/wequick/Small.git
+### Step 1. Clone SmallDemo (下载源码)
+    > cd [你要放SmallDemo的目录]
+    > git clone https://github.com/tgzzl/SmallDemo.git
 
 > 强烈建议使用git命令行，方便更新维护。Windows用户入口：[Git for Windows][git-win]<br/>
 > 后续更新可以使用命令：git pull origin master
   
-### Step 2. Import Sample project (导入示例工程)
-打开Android Studio，File->New->Import Project... 选择**Sample**文件夹，导入。
+### Step 2. Import SmallDemo project (导入示例工程)
+打开Android Studio，File->New->Import Project... 选择**SmallDemo**文件夹，导入。
 
-![Small sample][ic-sample]
+![SmallDemo sample][ic-sample]
 
 * Sample `示例工程`
   * app `宿主工程`
